@@ -5,7 +5,7 @@
 Implemented a Decision Tree\
 Implemented a tree balancing method for a linked implementation using brute force.
 
-**Background Info:**
+**Background Info:**\
 These PDFs depict the various trees constructed in this assignment.\
 "BackpainTree.pdf" is a visual of the Backpain Decision tree.\
 Additionally, for the Backpain Decision Tree, three traversals of the decision tree are simulated.\
